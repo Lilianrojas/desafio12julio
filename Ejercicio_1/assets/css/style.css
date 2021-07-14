@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+    .cajas {
+    margin: 5px;
+    display: flex;
+    }
+    
+    .box {
+    border: 2px solid black;
+    height: 100px;
+    display: inline-block;
+   
+    }
